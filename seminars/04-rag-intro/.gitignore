@@ -1,3 +1,6 @@
 # Local data
 models
 tmp
+
+# Tokens
+openai-config.custom.json
